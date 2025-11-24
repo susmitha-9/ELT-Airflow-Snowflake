@@ -1,6 +1,6 @@
 # ELT-Airflow-Snowflake
 
-**Objective: **
+**Objective:**
 Apache airflow as the core orchestration engine in a modern ELT, which is extract, load and transform data pipeline, leveraging the medallion architecture - bronze, silver, and gold. We will implement data ingestion, data loading and data transformation and scheduling across cloud native tools like AWS S3, snowflake and Python using Apache airflow. 
 
 ![alt text](image.png)
